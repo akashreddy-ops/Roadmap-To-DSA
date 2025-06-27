@@ -6,16 +6,16 @@ Complete these lists of Q and A to be ready for OOP :->
       https://www.javatpoint.com/oops-interview-questions  +
       https://www.geeksforgeeks.org/oops-interview-questions/ + Have Faith in GOD
 
-🔹Basic Defination(👉 Click here for the full definition).
-🔹Inheritance(👉 Click here for the full explanation).
-🔹Polymorphism(👉 Click here for the full explanation).
-🔹Encapsulation(👉 Click here for the full explanation).
-🔹Abstraction(👉 Click here for the full explanation).
-🔹Virtual Function(👉 Click here for the full explanation).
-🔹Constructor(👉 Click here for the full explanation).
-🔹Destructor(👉 Click here for the full explanation).
-🔹Static keyword(👉 Click here for the full explanation).
-🔹Abstract keyword(👉 Click here for the full explanation).
-🔹Diamond Problem(👉 Click here for the full explanation).
+🔹Basic Defination(👉 https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP).
+🔹Inheritance(👉 https://www.geeksforgeeks.org/cpp/inheritance-in-c/).
+🔹Polymorphism(👉 https://www.geeksforgeeks.org/cpp/cpp-polymorphism/).
+🔹Encapsulation(👉 https://www.geeksforgeeks.org/cpp/encapsulation-in-cpp/).
+🔹Abstraction(👉 https://www.geeksforgeeks.org/cpp/abstraction-in-cpp/).
+🔹Virtual Function(👉 https://www.geeksforgeeks.org/cpp/virtual-function-cpp/).
+🔹Constructor(👉 https://www.geeksforgeeks.org/constructors-c/?ref=lbp).
+🔹Destructor(👉 https://www.geeksforgeeks.org/destructors-c/?ref=lbp).
+🔹Static keyword(👉 https://www.geeksforgeeks.org/cpp/static-keyword-cpp/).
+🔹Abstract keyword(👉 https://www.geeksforgeeks.org/java/abstract-classes-in-java/).
+🔹Diamond Problem(👉 https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java).
 
-👉 Visit Full Article
+👉 Visit Full Article (https://www.interviewbit.com/oops-interview-questions/).
